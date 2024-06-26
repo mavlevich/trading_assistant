@@ -136,3 +136,4 @@
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.pdb
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.genruntimeconfig.cache
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/ref/trading_assistant.dll
+/Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.sourcelink.json
