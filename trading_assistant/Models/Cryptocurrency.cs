@@ -2,7 +2,7 @@ namespace trading_assistant.Models;
 
 public class Cryptocurrency
 {
-    public int Id { get; set; }
+    public int id { get; set; }
     public string name { get; set; }
     public string symbol { get; set; }
     public string slug { get; set; }
@@ -14,5 +14,5 @@ public class Cryptocurrency
     public DateTime lastUpdated { get; set; }
     public DateTime dateAdded { get; set; }
     public List<string> tags { get; set; }
-    public Dictionary<string, Quote> Quotes { get; set; }
+    public Dictionary<string, Quote> quotes { get; set; }
 }

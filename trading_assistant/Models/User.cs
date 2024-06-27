@@ -7,6 +7,6 @@ public class User : IdentityUser
     public string firstName { get; set; }
     public string lastName { get; set; }
     public string userName { get; set; }
-    public string Email { get; set; }
-    public string PasswordHash { get; set; }
+    public string email { get; set; }
+    public string passwordHash { get; set; }
 }
