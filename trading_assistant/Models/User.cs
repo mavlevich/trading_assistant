@@ -1,6 +1,7 @@
 namespace trading_assistant.Models;
+using Microsoft.AspNetCore.Identity;
 
-public class User
+public class User : IdentityUser
 {
     public int id { get; set; }
     public string firstName { get; set; }
