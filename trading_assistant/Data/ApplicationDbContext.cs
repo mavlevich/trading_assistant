@@ -12,7 +12,7 @@ public class ApplicationDbContext : IdentityDbContext<User>
     {
     }
     
-    public class User : IdentityUser
-    {
-    }
+    // public class User : IdentityUser
+    // {
+    // }
 }

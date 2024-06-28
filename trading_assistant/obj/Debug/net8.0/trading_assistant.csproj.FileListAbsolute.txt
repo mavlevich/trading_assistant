@@ -120,6 +120,7 @@
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.MvcApplicationPartsAssemblyInfo.cache
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.RazorAssemblyInfo.cache
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.RazorAssemblyInfo.cs
+/Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.sourcelink.json
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/staticwebassets.build.json
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/staticwebassets.development.json
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/staticwebassets/msbuild.trading_assistant.Microsoft.AspNetCore.StaticWebAssets.props
@@ -136,4 +137,3 @@
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.pdb
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.genruntimeconfig.cache
 /Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/ref/trading_assistant.dll
-/Users/mavlevich/RiderProjects/trading_assistant/trading_assistant/obj/Debug/net8.0/trading_assistant.sourcelink.json
